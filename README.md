@@ -5,7 +5,7 @@ In this we are gonna use the http://www.trex-game.skipser.com/ automate the Dino
 * Pyautogui
 * Numpy
 * ImageGrab,ImageOps
-* time
+* Time
 
 # Implementation:
 First we are going to click on the screen to start the Dino. Here we are having 2 conditions
